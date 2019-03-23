@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Merger2\Merger2\obj\Debug\Merger2.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Merger2\Merger2\obj\Debug\Merger2.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Merger2\Merger2\bin\Debug\Merger2.exe.config
+C:\Users\danie\source\repos\Merger2\Merger2\bin\Debug\Merger2.exe
+C:\Users\danie\source\repos\Merger2\Merger2\bin\Debug\Merger2.pdb
+C:\Users\danie\source\repos\Merger2\Merger2\obj\Debug\Merger2.exe
+C:\Users\danie\source\repos\Merger2\Merger2\obj\Debug\Merger2.pdb
